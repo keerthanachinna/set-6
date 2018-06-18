@@ -1,0 +1,10 @@
+a=110
+b=101
+c=99
+d=10
+e=2147483647
+f=2147483646
+print(a/b)
+print(c%d)
+print(e/e)
+print(f%e)
